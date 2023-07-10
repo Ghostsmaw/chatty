@@ -9,4 +9,5 @@ SETUP
 4. Replace the UUIDs with your own Project ID and Private Key from chatengine.io.
 
 REACT_APP_PROJECT_ID=12341234-1234-1234-1234-123412341234
+
 REACT_APP_PROJECT_KEY=abcdabcd-abcd-abcd-abcd-abcdabcdabcd
