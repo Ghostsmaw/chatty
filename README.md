@@ -11,3 +11,6 @@ SETUP
 REACT_APP_PROJECT_ID=12341234-1234-1234-1234-123412341234
 
 REACT_APP_PROJECT_KEY=abcdabcd-abcd-abcd-abcd-abcdabcdabcd
+
+![image](https://github.com/Ghostsmaw/chatty/assets/25077504/378dff08-182c-4728-a722-45bae2be188b)
+
